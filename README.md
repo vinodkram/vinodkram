@@ -1,16 +1,20 @@
-## Hi there 👋
+## My Company — Rajkar Global Consultancy
 
-<!--
-**vinodkram/vinodkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m the founder of Rajkar Global Consultancy Private Limited.
+We help businesses build, modernize and maintain digital solutions.
 
-Here are some ideas to get you started:
+### Our Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website and web application development
+- Drupal, WordPress and Laravel development
+- Custom APIs and third-party integrations
+- AI automation and business workflow integration
+- Software architecture and technical consulting
+- Cloud/VPS hosting, deployment and server management
+- Website maintenance and ongoing technical support
+
+🏢 [Explore our services](https://rajkarglobalc.com/)
+🌐 [My portfolio and online tools](https://justaskvin.com/)
+
+Have a project or need technical support?
+[Get in touch with Rajkar Global Consultancy](https://rajkarglobalc.com/)
