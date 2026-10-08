@@ -18,3 +18,14 @@ We help businesses build, modernize and maintain digital solutions.
 
 Have a project or need technical support?
 [Get in touch with Rajkar Global Consultancy](https://rajkarglobalc.com/)
+
+## Contact Me
+
+Have a project, need technical support, or want to discuss AI automation?
+
+- [Email Us](vinod@rajkarglobal.com)
+- [Chat on WhatsApp](https://wa.me/919870390226)
+- [Message on Facebook](https://m.me/vinodkram)
+- [Explore our services](https://rajkarglobalc.com/)
+- [Visit JustAskVin](https://justaskvin.com/)
+
