@@ -18,7 +18,7 @@ We help businesses build, modernize and maintain digital solutions.
 🌐 [Useful Daily Use Online tools](https://justaskvin.com/tools)
 
 Have a project or need technical support?
-[Get in touch with Rajkar Global Consultancy](https://rajkarglobalc.com/)
+[Get in touch with Rajkar Global Consultancy](https://rajkarglobal.com/)
 
 ## Contact Me
 
@@ -27,6 +27,6 @@ Have a project, need technical support, or want to discuss AI automation?
 - [Email Us](mailto:vinod@rajkarglobal.com)
 - [Chat on WhatsApp](https://wa.me/919870390226)
 - [Message on Facebook](https://m.me/vinodkram)
-- [Explore our services](https://rajkarglobalc.com/)
+- [Explore our services](https://rajkarglobal.com/)
 - [Visit JustAskVin](https://justaskvin.com/)
 
