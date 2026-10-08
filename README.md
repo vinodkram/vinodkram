@@ -23,7 +23,7 @@ Have a project or need technical support?
 
 Have a project, need technical support, or want to discuss AI automation?
 
-- [Email Us](vinod@rajkarglobal.com)
+- [Email Us](mailto:vinod@rajkarglobal.com)
 - [Chat on WhatsApp](https://wa.me/919870390226)
 - [Message on Facebook](https://m.me/vinodkram)
 - [Explore our services](https://rajkarglobalc.com/)
