@@ -13,8 +13,9 @@ We help businesses build, modernize and maintain digital solutions.
 - Cloud/VPS hosting, deployment and server management
 - Website maintenance and ongoing technical support
 
-🏢 [Explore our services](https://rajkarglobalc.com/)
-🌐 [My portfolio and online tools](https://justaskvin.com/)
+🏢 [Explore our services](https://rajkarglobal.com/)
+🌐 [My portfolio](https://justaskvin.com/)
+🌐 [Useful Daily Use Online tools](https://justaskvin.com/tools)
 
 Have a project or need technical support?
 [Get in touch with Rajkar Global Consultancy](https://rajkarglobalc.com/)
